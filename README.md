@@ -1,4 +1,3 @@
-first config:
+config:
 
-  download chromedriver, unzip, move to /usr/local/bin (mac os/linux)
-  pip install selenium
+  download chromedriver, unzip, move to /usr/local/bin (mac os/linux), then pip install selenium
